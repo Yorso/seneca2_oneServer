@@ -1,5 +1,5 @@
 { 
-  "name": "microservices2_oneServer",
+  "name": "seneca2_oneServer",
   "version": "1.0.0",
   "description": "Simple  example, one server running",
   "keywords": [
@@ -18,12 +18,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Yorso/microservices_seneca/tree/master/microservices2_oneServer"
+    "url": "https://github.com/Yorso/seneca2_oneServer"
   },
   "bugs": {
-    "url": "https://github.com/Yorso/microservices_seneca/issues"
+    "url": "https://github.com/Yorso/seneca2_oneServer/issues"
   },
-  "homepage": "https://github.com/Yorso/microservices_seneca/tree/master/microservices2_oneServer",
+  "homepage": "https://github.com/Yorso/seneca2_oneServer",
   "dependencies": {
     "express": "^4.13.4",
     "seneca": "^2.1.0"
