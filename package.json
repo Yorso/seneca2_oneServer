@@ -1,0 +1,31 @@
+{ 
+  "name": "microservices2_oneServer",
+  "version": "1.0.0",
+  "description": "Simple  example, one server running",
+  "keywords": [
+    "micro",
+    "service",
+    "microservice",
+    "micro-service",
+    "microservices",
+    "micro-services",
+    "services",
+    "micro services",
+    "micro service"
+  ],
+  "main": "main.js",
+  "author": "Jorge Guzón Fernández",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Yorso/microservices_seneca/tree/master/microservices2_oneServer"
+  },
+  "bugs": {
+    "url": "https://github.com/Yorso/microservices_seneca/issues"
+  },
+  "homepage": "https://github.com/Yorso/microservices_seneca/tree/master/microservices2_oneServer",
+  "dependencies": {
+    "express": "^4.13.4",
+    "seneca": "^2.1.0"
+  }
+}
